@@ -1,0 +1,9 @@
+/* Header section */
+
+header {
+    display: flex;
+}
+
+header ul {
+    list-style-type: none;   
+}
