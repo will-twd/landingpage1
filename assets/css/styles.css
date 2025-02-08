@@ -2,7 +2,7 @@
 
 body {
     margin: 0;
-    font-family: "Roboto";
+    font-family: "Roboto", sans-serif;
 }
 
 /* Header section */
@@ -10,13 +10,16 @@ body {
 header {
     display: flex;
     background-color: #1F2937;
+    justify-content: space-around;
+    align-items: center;
 }
 
 #headerlinks {
     list-style-type: none;
     display: flex;
     font-size: 18px;
-    color: #e5e7eb;   
+    color: #e5e7eb;
+    gap: 15px;   
 }
 
 #headerlogo {
