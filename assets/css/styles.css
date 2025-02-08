@@ -6,9 +6,17 @@ body {
 
 header {
     display: flex;
+    background-color: #1F2937;
 }
 
 #headerlinks {
     list-style-type: none;
-    display: flex;   
+    display: flex;
+    font-size: 18px;
+    color: #e5e7eb;   
+}
+
+#headerlogo {
+    font-size: 24px;
+    color: #f9faf8;
 }
