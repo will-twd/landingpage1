@@ -1,17 +1,9 @@
-/* universal */
-
-* {
-    font-family: 'Roboto';
-}
-
-
 /* Header section */
 
 header {
     display: flex;
 }
 
-.headerlinks {
-    display: flex;
+header ul {
     list-style-type: none;   
 }
