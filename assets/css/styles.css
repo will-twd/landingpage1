@@ -5,6 +5,11 @@ body {
     font-family: "Roboto", sans-serif;
 }
 
+.wrapper {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
 /* Header section */
 
 header {
@@ -38,8 +43,6 @@ header {
 
 .hero-container {
     display: flex;
-    margin-left: 10%;
-    margin-right: 10%;
 }
 
 .herotext h1 {
