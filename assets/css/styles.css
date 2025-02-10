@@ -26,3 +26,36 @@ header {
     font-size: 24px;
     color: #f9faf8;
 }
+
+/* Hero section */
+
+.hero {
+
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background: #1f2937;
+}
+
+.hero-container {
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.herotext h1 {
+    color: #f9faf8;
+    font-weight: 900;
+}
+
+.herotext p {
+   color: #e5e7eb;
+   font-size: 18px;
+}
+
+.herotext button {
+    color: #e5e7eb;
+    font-size: 18px;
+    background-color: #3882f6;
+    padding: 0.3em 1em;
+    border-radius: 8px;
+}
