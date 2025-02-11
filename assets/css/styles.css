@@ -62,3 +62,25 @@ header {
     padding: 0.3em 1em;
     border-radius: 8px;
 }
+
+/* Random info section */
+
+.randinfcontainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.randinfcontainer h1 {
+    align-self: center;
+}
+
+.randinfimgs {
+    display: flex;
+    flex-wrap: wrap;
+    align-self: center;
+    gap: 10px;
+}
+
+.randinfimgs figcaption {
+    flex-basis: auto;
+}
