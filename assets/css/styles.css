@@ -65,22 +65,20 @@ header {
 
 /* Random info section */
 
-.randinfcontainer {
+.randominfo {
     display: flex;
     flex-direction: column;
 }
 
-.randinfcontainer h1 {
+.randominfo h1 {
     align-self: center;
 }
 
-.randinfimgs {
+.randinfimg {
     display: flex;
-    flex-wrap: wrap;
-    align-self: center;
-    gap: 10px;
+    justify-content: center;
 }
 
-.randinfimgs figcaption {
-    flex-basis: auto;
+.placeholder2 {
+    width: 100px;
 }
