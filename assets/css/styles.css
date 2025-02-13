@@ -94,3 +94,29 @@ header {
     flex-basis: 500px;
     flex-direction: column;
 }
+
+/* Call to action */
+
+.CTA {
+    display: flex;
+    justify-content: center;
+    padding: 5%;
+}
+
+.CTAcontainer {
+    background-color: #3882f6;
+    color: #f9faf8;
+
+}
+
+/* Footer */
+
+footer {
+    background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+}
+
+footer p {
+    color: #f9faf8;
+}
