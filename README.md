@@ -5,7 +5,4 @@ In fact I did it without having a design to reference, no wonder I got so frustr
 
 I've revised CSS flexbox thoroughly as this gave me a major headache the first time round.
 
-I may also see if I can remember how to make it responisve with media queries etc, though this is not required
-for the assignment.
-
 Lets see how I get on!

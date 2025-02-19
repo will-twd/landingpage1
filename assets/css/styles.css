@@ -1,4 +1,4 @@
-* 
+/* Page Layout */
 
 body {
     margin: 0;
@@ -42,12 +42,21 @@ header {
 
 .hero-container {
     display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.herotext {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .herotext h1 {
     color: #f9faf8;
     font-size: 41px;
     font-weight: 900;
+    margin: 0px;
 }
 
 .herotext p {
