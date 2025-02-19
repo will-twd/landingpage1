@@ -46,6 +46,7 @@ header {
 
 .herotext h1 {
     color: #f9faf8;
+    font-size: 41px;
     font-weight: 900;
 }
 
@@ -71,6 +72,9 @@ header {
 
 .randominfo h1 {
     align-self: center;
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
 }
 
 .randinfimg {
@@ -87,12 +91,20 @@ header {
 .quote {
     background-color: #e5e7eb;
     padding: 10%;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 300;
+    color: #1F2937;
 }
 
 .quote article {
     display: flex;
     flex-basis: 500px;
     flex-direction: column;
+}
+
+.quote strong {
+    font-style: normal;
 }
 
 /* Call to action */
@@ -106,7 +118,10 @@ header {
 .CTAcontainer {
     background-color: #3882f6;
     color: #f9faf8;
-
+    flex-grow: 1;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
 
 /* Footer */
