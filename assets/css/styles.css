@@ -8,6 +8,8 @@ body {
 .wrapper {
     padding-left: 10%;
     padding-right: 10%;
+    padding-bottom: 5px;
+    padding-top: 5px;
 }
 
 /* Header section */
@@ -35,8 +37,6 @@ header {
 /* Hero section */
 
 .hero {
-    padding-top: 5%;
-    padding-bottom: 5%;
     background: #1f2937;
 }
 
