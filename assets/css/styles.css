@@ -57,10 +57,12 @@ header {
 
 .herotext button {
     color: #e5e7eb;
-    font-size: 18px;
     background-color: #3882f6;
-    padding: 0.3em 1em;
+    padding: 0.3em 1.5em;
     border-radius: 8px;
+    border-style: none;
+    font-size: smaller;
+    font-weight: 600;
 }
 
 /* Random info section */
@@ -122,6 +124,16 @@ header {
     display: flex;
     justify-content: space-around;
     align-items: center;
+}
+
+.CTA button {
+    color: #f9faf8;
+    background-color: #3882f6;
+    border-radius: 8px;
+    padding: 0.3em 1.5em;
+    border-color: #f9faf8;
+    border-style: solid;
+    font-size: smaller;
 }
 
 /* Footer */
