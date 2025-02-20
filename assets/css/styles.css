@@ -148,6 +148,7 @@ header {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    border-radius: 8px;
 }
 
 .CTA button {
@@ -166,8 +167,11 @@ footer {
     background-color: #1f2937;
     display: flex;
     justify-content: center;
+    align-items: center;
+    height: 50px;
 }
 
 footer p {
     color: #f9faf8;
+    font-size: x-small;
 }
