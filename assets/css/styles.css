@@ -6,10 +6,7 @@ body {
 }
 
 .wrapper {
-    padding-left: 10%;
-    padding-right: 10%;
-    padding-bottom: 70px;
-    padding-top: 70px;
+    padding: 5% 5% 10% 10%;
 }
 
 /* Header section */
@@ -82,6 +79,8 @@ header {
 .randominfo {
     display: flex;
     flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
 }
 
 .randominfo h1 {
@@ -93,11 +92,24 @@ header {
 
 .randinfimg {
     display: flex;
-    justify-content: center;
 }
 
 .placeholder2 {
-    width: 100px;
+    display: flex;
+    flex-direction: column;
+}
+
+.placeholder2 img {
+    border: #3882f6;
+    border-style: solid;
+    border-radius: 10%;
+    border-width: 2px;
+}
+
+.placeholder2 figcaption {
+    padding-top: 10px;
+    font-size: smaller;
+    width: 120px;
 }
 
 /*Quote section */
