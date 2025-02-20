@@ -6,7 +6,7 @@ body {
 }
 
 .wrapper {
-    padding: 5% 5% 10% 10%;
+    padding: 5% 10%;
 }
 
 /* Header section */
@@ -25,7 +25,7 @@ header {
     display: flex;
     font-size: 18px;
     color: #e5e7eb;
-    gap: 15px;   
+    gap: 30px;   
 }
 
 #headerlogo {
@@ -98,6 +98,7 @@ header {
 .placeholder2 {
     display: flex;
     flex-direction: column;
+    margin: 15px;
 }
 
 .placeholder2 img {
@@ -142,7 +143,6 @@ header {
 .CTA {
     display: flex;
     justify-content: center;
-    padding: 5%;
 }
 
 .CTAcontainer {
