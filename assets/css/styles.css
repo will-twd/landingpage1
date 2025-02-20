@@ -155,6 +155,18 @@ header {
     border-radius: 8px;
 }
 
+.CTAcontainer h2 {
+    margin-top: 30px;
+    margin-bottom: 0px;
+    font-size: 24px;
+}
+
+.CTAcontainer p {
+    margin-top: 0px;
+    margin-bottom: 30px;
+    font-size: 18px;
+}
+
 .CTA button {
     color: #f9faf8;
     background-color: #3882f6;

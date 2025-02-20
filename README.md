@@ -1,8 +1,10 @@
 This project is a basic landing page made as part of the Odin Project.
 
-Having previously gone through codecademys frontend course (this was a while ago) I have actually done this before!
-In fact I did it without having a design to reference, no wonder I got so frustrated back then!
+Really happy with how this turned out, I've managed to get the layout quite close to the reference image Odin Provided! I also think it scales well when expanded to full screen (on desktop).
 
-I've revised CSS flexbox thoroughly as this gave me a major headache the first time round.
+If I was to spend more time on the project I would make sure to add some media queries and responsive design so it scales properly for mobile. However as Odin covers this later I will finish here.
 
-Lets see how I get on!
+I'm glad I spent some time getting used to flexbox before the project. When I have worked with CSS in the past it gave me a major headache! 
+Now I have a better understanding of how to use it. This project was a great oppurtunity for practice and I can see what a powerful tool it is.
+
+I have also learned a lot about GIT and made an effort to use this as much as possible throughout.
